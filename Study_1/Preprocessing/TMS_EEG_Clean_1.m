@@ -1,4 +1,6 @@
-% This is the first step for cleaning TMS-EEG data;
+% This is the first step for cleaning TMS-EEG data.
+% It removes large magnetic artefact from TMS and epochs the data, undergoes baseline correction,
+% re-labels the data and merges two different time points, and downsamples the data.
 
 
 clear all; close all; clc;
