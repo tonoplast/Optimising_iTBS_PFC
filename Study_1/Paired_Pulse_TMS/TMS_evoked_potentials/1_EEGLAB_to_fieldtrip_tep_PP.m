@@ -1,7 +1,7 @@
 clear;
 
 % This script converts eeglab files in to field trip files. This is
-% for paired pulse data
+% for paired-pulse (PP) data
 
 % ##### SETTINGS #####
 
