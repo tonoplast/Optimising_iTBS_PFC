@@ -140,7 +140,7 @@ EEG = pop_saveset(EEG, 'filename', [ID '_TMSEEG_' Sesh '_ds_ica1_filt_ica2_clean
 %INTERPOLATE MISSING CHANNELS
 EEG = pop_interp(EEG, EEG.allchan, 'spherical');
 
-% %AVERAGE RE-REFERENCE - Run eeglab and use EEG.history to figure it out.
+%AVERAGE RE-REFERENCE - Run eeglab and use EEG.history to figure it out.
 EEG = pop_reref( EEG, []);
 
 EEG = pop_saveset(EEG, 'filename', [ID '_TMSEEG_' Sesh '_ds_ica1_filt_ica2_clean_reref.set'], 'filepath', [outPath filesep ID filesep Sesh]);
@@ -148,6 +148,7 @@ EEG = pop_saveset(EEG, 'filename', [ID '_TMSEEG_' Sesh '_ds_ica1_filt_ica2_clean
 
 %%
 %SPLIT INTO SEPERATE FILES
+%SPTMS is for Single-pulse TMS, PPTMS is for Paired-pulse TMS
 temp = EEG;
 
 EEG = pop_selectevent( EEG, 'type',{'TMS_T0'},'deleteevents','off','deleteepochs','on','invertepochs','off');
