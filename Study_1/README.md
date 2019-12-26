@@ -1,7 +1,7 @@
 This folder (Study_1) contains MATLAB scripts for the study:
 
-## Demonstration of short-term plasticity in the dorsolateral prefrontal cortex with theta burst stimulation: A TMS-EEG study 
-## Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1388245717301517
+### Demonstration of short-term plasticity in the dorsolateral prefrontal cortex with theta burst stimulation: A TMS-EEG study 
+Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1388245717301517
 
 This study demonstrates TBS-induced plasticity in the left dorsolateral prefrontal cortex using TMS-EEG technique. 
 In this paper, the effects of iTBS and cTBS are examined in the DLPFC using single- and paired-pulse paradigms. 
