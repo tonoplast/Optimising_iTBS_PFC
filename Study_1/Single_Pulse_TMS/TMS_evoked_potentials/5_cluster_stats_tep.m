@@ -107,7 +107,7 @@ save ([inPath, 'stats_', cond1,'_V_',cond2, '_' ,TOINAME], 'stat','TOI');
 %Draw clusterplot for significant findings
 
 cfg=[];
-cfg.alpha = 0.05;
+cfg.alpha = 0.025;
 cfg.zparam = 'stat';
 cfg.layout =  'quickcap64.mat'; % 'easycapM11.mat'; % 'quickcap64.mat';
 cfg.gridscale=100;
