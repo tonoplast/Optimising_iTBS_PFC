@@ -1,5 +1,6 @@
 clear; close all; clc
 
+% getting the difference between post and pre (LICI - long-interval intracortical inhibition)
 
 %Path
 inPath = 'F:\Data\EEG\0_TBS\TMS_analysis\ROI\ft\';
