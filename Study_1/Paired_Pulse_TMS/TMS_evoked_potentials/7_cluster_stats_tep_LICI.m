@@ -3,9 +3,10 @@ clear; close all;
 
 % This script runs cluster-based permutation statistics between two within
 % subject conditions across a pre-determined time window of interest (TOI)
+% This is for LICI (Long-interval Intra-Cortical Inhibition)
 
-posneg = 'pos'; %% 'pos' or  'neg'
-sesh = 'iTBS'; %% 'iTBS', 'cTBS' or 'SH'
+posneg = 'pos'; %% 'pos' or  'neg' -- positive or negative peak
+sesh = 'iTBS'; %% 'iTBS', 'cTBS' or 'SH' -- choose which condition (manual process)
 
 %Condition 1
 cond1 = ['PPTMS_' sesh '_LICI' posneg '_T1']; % single 
