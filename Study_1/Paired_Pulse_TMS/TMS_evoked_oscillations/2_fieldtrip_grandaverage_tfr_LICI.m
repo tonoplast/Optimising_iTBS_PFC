@@ -70,6 +70,9 @@ ft_defaults;
     
     % meaning by freq
         iSPavgFreq(i,:) = squeeze(mean(SP.ftWaveBc.powspctrm(i,:,:),2));
+        %  iSPavgFreq(i,:) = squeeze(mean(SP.ftWaveBc.powspctrm(i,1:3,:),2)); % this is for Theta power
+        %  iSPavgFreq(i,:) = squeeze(mean(SP.ftWaveBc.powspctrm(i,27:41,:),2)); % this is for Gamma Power
+
 
     end
     
@@ -94,6 +97,11 @@ ft_defaults;
        
     % normal value
     ftWaveBc.powspctrm = LICI_cal;
+    %     ftWaveBc.freq = ftWaveBc.freq(1:3); %this is for Theta Power
+    %     ftWaveBc.freq = ftWaveBc.freq(27:41); %this is for Gamma Power
+    
+    % diff value
+    % ftWaveBc.powspctrm = SP_PP_diff;
 
     %create structure
     ALL.(ID{x,1}) = ftWaveBc;
@@ -126,6 +134,9 @@ end
 
 %Save data
 save([outPath,['PPTMS_' Sesh{y,1} '_LICI_' tp{z,1} '_ftWaveBc_ga']],'grandAverage');
+% save([outPath,['PPTMS_' Sesh{y,1} '_LICI_theta_' tp{z,1} '_ftWaveBc_ga']],'grandAverage');
+% save([outPath,['PPTMS_' Sesh{y,1} '_LICI_gamma_' tp{z,1} '_ftWaveBc_ga']],'grandAverage');
+
     end
 end
 
