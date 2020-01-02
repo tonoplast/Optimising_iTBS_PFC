@@ -12,7 +12,7 @@
     ID = {'H001'; 'H002'; 'H003'; 'H004'; 'H005'; 'H006' ; 'H007' ; 'H008' ; 'H009' ; 'H010'};
     
     inPath = 'F:\Data\EEG\0_TBS\TMS_analysis\Freq_analysis\';
-    outPath = 'F:\Data\EEG\0_TBS\TMS_analysis\Freq_analysis\stats\NEW\';
+    outPath = 'F:\Data\EEG\0_TBS\TMS_analysis\Freq_analysis\stats\';
     Sesh = {'cTBS'; 'iTBS'; 'SH'};
     tp = {'T0';'T1'};
     
