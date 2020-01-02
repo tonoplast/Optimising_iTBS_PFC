@@ -28,11 +28,11 @@ These are:
 
 Each project utilises toolboxes written by other researchers, and I have modified where it suited. Tools needed are:
 
-   #### 1. Analysis_Toolbox
-   #### 2. eeglab
-   #### 3. FastICA_25
-   #### 4. TMSEEG_Toolbox -- TESA
-
+    1. Analysis_Toolbox (included in this repository)
+    2. EEGLAB - https://sccn.ucsd.edu/eeglab/download.php
+    3. FastICA_25 - https://research.ics.aalto.fi/ica/fastica/ (it can also be downloaded via EEGLAB)
+    4. TESA - https://nigelrogasch.github.io/TESA/
+    
 If you have any question, please contact me at: sungwookmonash@gmail.com
 
 Thank you, and I wish you all the best.
