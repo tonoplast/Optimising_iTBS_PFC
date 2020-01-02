@@ -28,7 +28,8 @@ These are:
 #### 4. The effects of individualised intermittent theta burst stimulation in the prefrontal cortex: A TMS‐EEG study  <br />
    Published paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24398
    <br />
-    
+   <br />
+   
 Each project utilises toolboxes written by other researchers, and I have modified where it suited. Tools needed are:
 
    1. Analysis_Toolbox (included in this repository)
