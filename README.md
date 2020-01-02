@@ -13,7 +13,7 @@ There are 4 experimental studies that utilised MATLAB codes for either or both e
 
 These are: 
 
-1. Demonstration of short-term plasticity in the dorsolateral prefrontal cortex with theta burst stimulation: A TMS-EEG study
+1. Demonstration of short-term plasticity in the dorsolateral prefrontal cortex with theta burst stimulation: A TMS-EEG study <br />
 
    Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1388245717301517
    
@@ -37,7 +37,7 @@ These are:
 Each project utilises toolboxes written by other researchers, and I have modified where it suited. Tools needed are:
 
    1. Analysis_Toolbox (included in this repository)
-   2. EEGLAB - https://sccn.ucsd.edu/eeglab/download.php
+   2. EEGLAB - https://sccn.ucsd.edu/eeglab/index.php
    3. FastICA_25 - https://research.ics.aalto.fi/ica/fastica/ (it can also be downloaded via EEGLAB)
    4. TESA - https://nigelrogasch.github.io/TESA/
     
