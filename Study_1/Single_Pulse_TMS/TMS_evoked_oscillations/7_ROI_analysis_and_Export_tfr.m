@@ -27,9 +27,9 @@ FOI = {[5,7];[8,12];[13,30];[31,70]};
 
 FOINames = {'theta';'alpha';'beta';'gamma'};
 
-for ee = 1:size(elec,1);
+for ee = 1:size(elec,1)
 
-   for f = 1:size(FOI,1);
+   for f = 1:size(FOI,1)
     
     if FOI{f,1} == [5,7]
         FOIName = FOINames{1};
@@ -37,10 +37,10 @@ for ee = 1:size(elec,1);
     elseif FOI{f,1} == [8,12]
         FOIName = FOINames{2};
         TOI = [0.050,0.250]; 
-    elseif FOI{f,1} == [13,30];
+    elseif FOI{f,1} == [13,30]
         FOIName = FOINames{3};
         TOI = [0.050,0.250];
-    elseif FOI{f,1}  == [31,70];
+    elseif FOI{f,1}  == [31,70]
         FOIName = FOINames{4};
         TOI = [0.025,0.125];
     end
@@ -51,9 +51,9 @@ for ee = 1:size(elec,1);
     ft_defaults;
 
 
-     for y = 1:size(Sesh,1);
+     for y = 1:size(Sesh,1)
          
-          for z = 1:size(tp,1);
+          for z = 1:size(tp,1)
 
 load([inPath filesep 'SPTMS_' Sesh{y,1} '_final_' tp{z,1} '_ftWaveBc_ga']);
 
@@ -92,7 +92,7 @@ freqOutput3 = mean(iter3(:,:,f1:f2),3); % Average of electrodes
     col_header = {[Sesh{y,1} '_' tp{z,1}]};
     col(y,z) = col_header;
     
-    for x = 1:size(ID,1);
+    for x = 1:size(ID,1)
     row_header = {[ID{x,1}]};
     row(x) = row_header;
                 
