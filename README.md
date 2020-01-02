@@ -36,6 +36,7 @@ Each project utilises toolboxes written by other researchers, and I have modifie
    2. EEGLAB - https://sccn.ucsd.edu/eeglab/index.php
    3. FastICA_25 - https://research.ics.aalto.fi/ica/fastica/ (it can also be downloaded via EEGLAB)
    4. TESA - https://nigelrogasch.github.io/TESA/
+   5. FieldTrip - www.fieldtriptoolbox.org (it can also be downloaded via EEGLAB)
    
    <br />
    
