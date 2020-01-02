@@ -1,4 +1,4 @@
-# Optimising_iTBS_PFC
+## Optimising_iTBS_PFC
 
 This repository contains MATLAB scripts that were used in the PhD thesis called
 "Developing optimal methods for theta burst prefrontal brain stimulation".
