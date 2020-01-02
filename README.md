@@ -28,10 +28,10 @@ These are:
 
 Each project utilises toolboxes written by other researchers, and I have modified where it suited. Tools needed are:
 
-   # ### 1. Analysis_Toolbox
-   # ### 2. eeglab
-   # ### 3. FastICA_25
-   # ### 4. TMSEEG_Toolbox -- TESA
+   #### 1. Analysis_Toolbox
+   #### 2. eeglab
+   #### 3. FastICA_25
+   #### 4. TMSEEG_Toolbox -- TESA
 
 If you have any question, please contact me at: sungwookmonash@gmail.com
 
