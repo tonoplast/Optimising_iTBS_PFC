@@ -5,7 +5,7 @@ This repository contains MATLAB scripts that were used in the PhD thesis called
 
 Theta burst stimulation (TBS) is a non-invasive brain stimulation technique which has the ability to alter brain activity in humans. Due to its rapid administration duration, TBS has gained popularity both in research and clinical trials. Despite its benefits, wide adoption of this technique in the treatment of psychiatric disorders has been limited due to the lack of understanding of its effects when it is applied to the prefrontal. In addition, little is known about the effect of different stimulation parameters. The aim of this thesis was to develop the optimal method of TBS application in the prefrontal cortex.
 
-The PhD thesis can be found here:
+##### The PhD thesis can be found here:
 
 https://monash.figshare.com/articles/Developing_optimal_methods_for_theta_burst_prefrontal_brain_stimulation/5792913
 
