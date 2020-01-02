@@ -12,3 +12,6 @@ together with a potential link between TMS-evoked N100 and cortical inhibition.
 In terms of MATLAB codes, it uses semi-automated methods of cleaning TMS-EEG data and analysing TMS-evoked potentials and oscillations.
 
 Non-parametic cluster-based permutation statistics were used in the data analysis.
+
+There are two main measures; (1) Single-pulse and (2) Paired-pulse TMS (measuring Long-interval Intracortical Inhibition (LICI))
+Both look at TMS-evoked potentials (TEPs) and TMS-evoked oscillations (power).
