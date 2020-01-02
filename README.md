@@ -13,9 +13,8 @@ There are 4 experimental studies that utilised MATLAB codes for either or both e
 
 These are: 
 
-1. Demonstration of short-term plasticity in the dorsolateral prefrontal cortex with theta burst stimulation: A TMS-EEG study <br />
+### 1. Demonstration of short-term plasticity in the dorsolateral prefrontal cortex with theta burst stimulation: A TMS-EEG study <br />
    Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1388245717301517
-    
     <br />
     
 2. Impact of different intensities of intermittent theta burst stimulation on the cortical properties during TMS‐EEG and working memory performance  <br />
