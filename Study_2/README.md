@@ -1,7 +1,7 @@
 This folder (Study_2) contains MATLAB scripts for the study:
 
 ### Impact of different intensities of intermittent theta burst stimulation on the cortical properties during TMS‐EEG and working memory performance
-Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1388245717301517
+Published paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23882
 
 This study presents the impact of different intensities of iTBS on cortical properties using TMS-EEG. In this paper, 
 the importance of the intensity of prefrontal iTBS is demonstrated using three different
