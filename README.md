@@ -17,22 +17,18 @@ These are:
    Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1388245717301517
     <br />
     
-2. Impact of different intensities of intermittent theta burst stimulation on the cortical properties during TMS‐EEG and working memory performance  <br />
+#### 2. Impact of different intensities of intermittent theta burst stimulation on the cortical properties during TMS‐EEG and working memory performance  <br />
    Published paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23882
-    
-    <br />
+   <br />
 
-3. The effect of single and repeated prefrontal intermittent theta burst stimulation on cortical reactivity and working memory  <br />
+#### 3. The effect of single and repeated prefrontal intermittent theta burst stimulation on cortical reactivity and working memory  <br />
    Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1935861X18300305
+   <br />
     
-    <br />
-    
-4. The effects of individualised intermittent theta burst stimulation in the prefrontal cortex: A TMS‐EEG study  <br />
+#### 4. The effects of individualised intermittent theta burst stimulation in the prefrontal cortex: A TMS‐EEG study  <br />
    Published paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24398
+   <br />
     
-    <br />
-    
-
 Each project utilises toolboxes written by other researchers, and I have modified where it suited. Tools needed are:
 
    1. Analysis_Toolbox (included in this repository)
