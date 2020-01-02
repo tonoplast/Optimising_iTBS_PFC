@@ -14,24 +14,20 @@ There are 4 experimental studies that utilised MATLAB codes for either or both e
 These are: 
 
 1. Demonstration of short-term plasticity in the dorsolateral prefrontal cortex with theta burst stimulation: A TMS-EEG study <br />
-
    Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1388245717301517
-   
+    <br />
     
-2. Impact of different intensities of intermittent theta burst stimulation on the cortical properties during TMS‐EEG and working memory performance
-
+2. Impact of different intensities of intermittent theta burst stimulation on the cortical properties during TMS‐EEG and working memory performance  <br />
    Published paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23882
-   
+    <br />
 
-3. The effect of single and repeated prefrontal intermittent theta burst stimulation on cortical reactivity and working memory
-
+3. The effect of single and repeated prefrontal intermittent theta burst stimulation on cortical reactivity and working memory  <br />
    Published paper: https://www.sciencedirect.com/science/article/abs/pii/S1935861X18300305
-   
+    <br />
     
-4. The effects of individualised intermittent theta burst stimulation in the prefrontal cortex: A TMS‐EEG study
-
+4. The effects of individualised intermittent theta burst stimulation in the prefrontal cortex: A TMS‐EEG study  <br />
    Published paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24398
-   
+    <br />
     
 
 Each project utilises toolboxes written by other researchers, and I have modified where it suited. Tools needed are:
@@ -40,7 +36,9 @@ Each project utilises toolboxes written by other researchers, and I have modifie
    2. EEGLAB - https://sccn.ucsd.edu/eeglab/index.php
    3. FastICA_25 - https://research.ics.aalto.fi/ica/fastica/ (it can also be downloaded via EEGLAB)
    4. TESA - https://nigelrogasch.github.io/TESA/
-    
+   
+   <br />
+   
 If you have any question, please contact me at: sungwookmonash@gmail.com
 
 Thank you, and I wish you all the best.
