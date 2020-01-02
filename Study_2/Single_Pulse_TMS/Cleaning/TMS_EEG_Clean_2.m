@@ -1,3 +1,5 @@
+% This script goes through a manual cleaning process. It is done for one participant / condition at a time.
+
 clear; close all;
 
 %SETTINGS
