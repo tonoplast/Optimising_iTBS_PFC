@@ -2,10 +2,10 @@ clear; close all;
 
 
 %Condition 1
-cond1 = 'SPTMS_iTBS_final_T1'; % single - important, do not put a _ before the extension
+cond1 = 'SPTMS_iTBS_final_T1'; 
 
 %Condition 2
-cond2 = 'SPTMS_iTBS_final_T0'; % paired - important, do not put a _ before the extension
+cond2 = 'SPTMS_iTBS_final_T0'; 
 
 TOINAME = 'N120'; % 'N40' ; 'N120' ;' P60';'P200' ;
 
