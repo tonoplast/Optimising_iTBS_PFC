@@ -17,8 +17,7 @@ Sesh= {'50'; '75'; '100'};
 
 tp = {'T0' ; 'T1'; 'T2'};
 
-inPath = 'F:\Data\EEG\1_Intensity\ROI\NEW\';
-% inPath = ['F:\Data\EEG\1_Intensity\ROI\ft\' aud filesep];
+inPath = 'F:\Data\EEG\1_Intensity\ROI\';
 
 % ##### SCRIPT #####
 
