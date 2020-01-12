@@ -4,10 +4,10 @@ clear; close all; clc;
 % Butterfly plot and voltage distributions. This script is not very user-friendly, and possibly out-dated
 
 %Condition 1
-cond1 = 'SPTMS_iTBS_final_T0'; % single - important, do not put a _ before the extension
+cond1 = 'SPTMS_iTBS_final_T0'; 
 
 %Condition 2
-cond2 = 'SPTMS_iTBS_final_T1'; % paired - important, do not put a _ before the extension
+cond2 = 'SPTMS_iTBS_final_T1';
 
 
 
