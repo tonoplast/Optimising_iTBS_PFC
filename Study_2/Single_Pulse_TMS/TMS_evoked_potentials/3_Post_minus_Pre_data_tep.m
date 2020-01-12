@@ -8,7 +8,7 @@ Sesh= {'50'; '75'; '100'}; % 3 different conditions
 
 t0 = 'T0';
 t1 = 'T1';
-t2 = 'T2';
+t2 = 'T2'; % try-catch logic used for t2 (in case if there are only 2 time points)
 
 fnamevar = 'TMSEEG_';
 
