@@ -7,9 +7,9 @@ clear; close all; clc;
 % ##### SETTINGS #####
 
 
-cond1 = 'SPTMS_iTBS_final_T1'; % single - important, do not put a _ before the extension
+cond1 = 'SPTMS_iTBS_final_T1'; 
 
-cond2 = 'SPTMS_iTBS_final_T0'; % paired - important, do not put a _ before the extension
+cond2 = 'SPTMS_iTBS_final_T0'; 
 
 
 
