@@ -13,10 +13,10 @@ fnamevar = 'SPTMS_';
 for y = 1:size(Sesh,1)
         
     %Time 0
-     time0 = [fnamevar Sesh{y,1} '_final_T0']; % single - important, do not put a _ before the extension
+     time0 = [fnamevar Sesh{y,1} '_final_T0']; 
 
     %Time 1
-     time1 = [fnamevar Sesh{y,1} '_final_T1']; % paired - important, do not put a _ before the extension
+     time1 = [fnamevar Sesh{y,1} '_final_T1']; 
 
 
 
