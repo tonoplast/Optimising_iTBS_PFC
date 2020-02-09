@@ -1,4 +1,6 @@
-%THIS SCRIPT FILTERS AND EPOCHS THE NBACK EEG FILES READY FOR ICA/PROCESSING WITH 'SCRIPT B'%
+% THIS SCRIPT FILTERS AND EPOCHS THE NBACK EEG FILES READY FOR ICA/PROCESSING
+% NOTE THAT THIS IS DONE WITH 0.1 Hz FILTER
+
 clc; close all; clear;
 
 eeglab;
@@ -124,7 +126,7 @@ EEG=SPK;
 
 
 %% FILTER 
-% Band pass (0.3 -100Hz) 
+% Band pass (0.1 -100Hz) 
 % Two way IIR zero phase Infinite Impulse Response filters (applying a causal step [oldest
 % data to newest], followed by an anti-causal step [newest data to oldest] to retain phase information).
 
