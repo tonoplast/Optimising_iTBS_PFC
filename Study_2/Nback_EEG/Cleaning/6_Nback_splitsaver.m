@@ -1,5 +1,5 @@
 # THIS FILE IS FOR SPLITTING N-BACK DATA (EPOCHED) BASED ON THE NEEDS
-# (E.g. Correct response, Correct Probe, Miss response etc.. --> Refer to RecodeNback4.m)
+# (E.g. Correct response, Correct Probe, Miss response etc.. --> Refer to recodeNback4.m)
 
 close all; clear;
 
