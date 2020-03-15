@@ -20,10 +20,10 @@ fnamevar = 'ERP_';
         for n = 1:size(nback,1)
             
     %Time 0
-    time0 = [fnamevar Sesh{y,1} '_' type{t,1} '_' nback{n,1} '_final_T0']; % single - important, do not put a _ before the extension
+    time0 = [fnamevar Sesh{y,1} '_' type{t,1} '_' nback{n,1} '_final_T0']; 
 
     %Time 1
-    time1 = [fnamevar Sesh{y,1} '_' type{t,1} '_' nback{n,1} '_final_T1']; % paired - important, do not put a _ before the extension
+    time1 = [fnamevar Sesh{y,1} '_' type{t,1} '_' nback{n,1} '_final_T1']; 
 
 
 %set filename
